@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working on my SENA Project
 
 <!--
 **egc31/egc31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
